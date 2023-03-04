@@ -5,7 +5,7 @@ IEPL内网专线机场，华为云BGP入口，香港老板，已有机场行业�
 
 官网（通过这个链接注册新用户全员无门槛8折优惠券,只能用一次，目前每充值一百可以抽奖，还有75折优惠）：
 
- <a href="https://invitation.gacloud.ltd/register?code=QCKa" target="_blank">WgetCloud官网1(如果打不开请切换为全局代理)</a>
+ <a href="https://invite.wgetcloud.ltd/auth/register?code=QCKa" target="_blank">WgetCloud官网1(如果打不开请切换为全局代理)</a>
 
 >开业时间：2021    
 老板肉身：香港       
